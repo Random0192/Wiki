@@ -1,0 +1,2 @@
+# Wiki
+Repozytorium zawiera Wiki
